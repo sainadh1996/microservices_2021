@@ -1,6 +1,6 @@
 class test{
          public static void main(String args[]){
 		 System.out.println("sample java web app project");
-                  System.out.println("dev02 code changes");
+                  System.out.println("dev02 code changes for local merge in sprint JIRA-101");
 		 }
 }
